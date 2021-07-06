@@ -31,4 +31,4 @@ jobs:
       - name: make test
         run: |
           make test -C 4_Implementation/
-          valgrind  ./4_Implementation/Build/Test_SDLC_Project.exe
+          valgrind  ./4_Implementation/build/Test_SDLC_Project.out
