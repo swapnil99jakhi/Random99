@@ -59,7 +59,7 @@ void test_should_convert(void){
     void test_should_convert1(){
     strcpy(Supp.name,"Aditya");
     strcpy(Supp.City, "Nashik");
-    strcpy(Supp.Mobile_Number,"90913473378");
+    strcpy(Supp.Mobile_Number,"9091347337");
     strcpy(Supp.email,"@playboy.com");
     strcpy(Supp.Medicines,"Pacedon Allegra");
     strcpy(Supp.Quantity,"20 40");
