@@ -31,4 +31,4 @@ jobs:
       - name: make test
         run: |
           make test -C 4_Implementation/
-          valgrind  ./4_Implementation
+          valgrind  ./4_Implementation/build/Test_.out
