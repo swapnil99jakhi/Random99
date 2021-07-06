@@ -68,7 +68,7 @@ FILE *f2=fopen("data2.csv","r");
     				Supp.Quantity[j]=' ';
     			j++;	
     		}
-    		char d =New_Supplier_ID(Supp);
+    		New_Supplier_ID(Supp);
 	}
 	else
 	{
